@@ -7,5 +7,6 @@
      * e avisar o concurseiro sobre os dados importantes e vagas
      */ 
 
-     $source = "https://www.octoparse.com/blog/creating-a-simple-web-crawler-in-php-you-need-an-automation-one";
+     $sourceOne = "https://www.octoparse.com/blog/creating-a-simple-web-crawler-in-php-you-need-an-automation-one";
+     $sourceTwo = "https://potentpages.com/web-crawler-development/tutorials/php";
 ?>
