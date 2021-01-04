@@ -4,7 +4,7 @@
 # Projeto php-relearn
 
 ## Descrição
-Estudos de PHP7 e PHP8 com foco em reciclagem e reforço de conhecimento, levando em conta que fiquei muito tempo sem estudar a fundo a linguagem.
+Estudos de PHP₇ e PHP₈ com foco em reciclagem e reforço de conhecimento, considerando que fiquei muito tempo sem estudar a fundo a linguagem.
 
 ## Justificativas
 Por vários anos, programei em PHP sem me importar com o mundo ao redor, produzia código e tentava entender o porquê de algumas coisas funcionarem e outras não.
