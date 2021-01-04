@@ -24,7 +24,7 @@
                 <div class="module color1">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicio.php">Exercício A</a></li>
                         <li><a href="#">Exercício B</a></li>
                         <li><a href="#">Exercício C</a></li>
                     </ul>
@@ -97,7 +97,7 @@
         </div>
     </main>
     <footer class="footer">
-        Cod3r & alunos &copy; <?php echo date('Y') ?>
+        Cod3r & alunos &copy; <?= date('Y'); ?>
     </footer>
 
 </body>
